@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
-      "exam70483codesamples.threading.01/1.0.0": {
+      "exam70483codesamples.threading.03/1.0.0": {
         "runtime": {
-          "Exam70483CodeSamples.Threading.01.dll": {}
+          "Exam70483CodeSamples.Threading.03.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "exam70483codesamples.threading.01/1.0.0": {
+    "exam70483codesamples.threading.03/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

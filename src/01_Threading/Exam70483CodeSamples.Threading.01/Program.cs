@@ -4,7 +4,7 @@
     using System.Threading;
 
     /// <summary>
-    /// Use a thread
+    /// Using a simple thread
     /// </summary>
     /// <remarks>
     /// - Thread.Sleep(0) =>

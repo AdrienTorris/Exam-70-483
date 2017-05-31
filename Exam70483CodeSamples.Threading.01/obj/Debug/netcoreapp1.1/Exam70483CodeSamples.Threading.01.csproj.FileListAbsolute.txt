@@ -1,9 +1,0 @@
-c:\users\a.torris\documents\visual studio 2017\Projects\Exam70483CodeSamplesSolution\Exam70483CodeSamples.Threading.01\bin\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.01.deps.json
-c:\users\a.torris\documents\visual studio 2017\Projects\Exam70483CodeSamplesSolution\Exam70483CodeSamples.Threading.01\bin\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.01.runtimeconfig.json
-c:\users\a.torris\documents\visual studio 2017\Projects\Exam70483CodeSamplesSolution\Exam70483CodeSamples.Threading.01\bin\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.01.runtimeconfig.dev.json
-c:\users\a.torris\documents\visual studio 2017\Projects\Exam70483CodeSamplesSolution\Exam70483CodeSamples.Threading.01\bin\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.01.dll
-c:\users\a.torris\documents\visual studio 2017\Projects\Exam70483CodeSamplesSolution\Exam70483CodeSamples.Threading.01\bin\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.01.pdb
-c:\users\a.torris\documents\visual studio 2017\Projects\Exam70483CodeSamplesSolution\Exam70483CodeSamples.Threading.01\obj\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.01.csprojResolveAssemblyReference.cache
-c:\users\a.torris\documents\visual studio 2017\Projects\Exam70483CodeSamplesSolution\Exam70483CodeSamples.Threading.01\obj\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.01.AssemblyInfo.cs
-c:\users\a.torris\documents\visual studio 2017\Projects\Exam70483CodeSamplesSolution\Exam70483CodeSamples.Threading.01\obj\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.01.dll
-c:\users\a.torris\documents\visual studio 2017\Projects\Exam70483CodeSamplesSolution\Exam70483CodeSamples.Threading.01\obj\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.01.pdb

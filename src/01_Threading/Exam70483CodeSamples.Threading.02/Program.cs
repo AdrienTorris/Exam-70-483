@@ -4,7 +4,7 @@
     using System.Threading;
 
     /// <summary>
-    /// Use a background thread
+    /// Using a background thread
     /// </summary>
     /// <remarks>
     /// - With t.IsBackground = true => exists immediatly

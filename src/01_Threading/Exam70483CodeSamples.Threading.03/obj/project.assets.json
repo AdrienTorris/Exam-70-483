@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\a.torris\\documents\\visual studio 2017\\Projects\\Exam70483CodeSamplesSolution\\Exam70483CodeSamples.Threading.01\\Exam70483CodeSamples.Threading.01.csproj",
-      "projectName": "Exam70483CodeSamples.Threading.01",
-      "projectPath": "c:\\users\\a.torris\\documents\\visual studio 2017\\Projects\\Exam70483CodeSamplesSolution\\Exam70483CodeSamples.Threading.01\\Exam70483CodeSamples.Threading.01.csproj",
-      "outputPath": "c:\\users\\a.torris\\documents\\visual studio 2017\\Projects\\Exam70483CodeSamplesSolution\\Exam70483CodeSamples.Threading.01\\obj\\",
+      "projectUniqueName": "C:\\Users\\a.torris\\Documents\\GitHub\\Exam-70-483\\src\\01_Threading\\Exam70483CodeSamples.Threading.03\\Exam70483CodeSamples.Threading.03.csproj",
+      "projectName": "Exam70483CodeSamples.Threading.03",
+      "projectPath": "C:\\Users\\a.torris\\Documents\\GitHub\\Exam-70-483\\src\\01_Threading\\Exam70483CodeSamples.Threading.03\\Exam70483CodeSamples.Threading.03.csproj",
+      "outputPath": "C:\\Users\\a.torris\\Documents\\GitHub\\Exam-70-483\\src\\01_Threading\\Exam70483CodeSamples.Threading.03\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

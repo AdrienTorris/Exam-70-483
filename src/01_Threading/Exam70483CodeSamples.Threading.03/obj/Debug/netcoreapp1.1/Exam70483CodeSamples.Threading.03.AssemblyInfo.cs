@@ -11,13 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Exam70483CodeSamples.Threading")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Exam70483CodeSamples.Threading.03")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Package Description")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Exam70483CodeSamples.Threading")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Exam70483CodeSamples.Threading")]
+[assembly: System.Reflection.AssemblyProductAttribute("Exam70483CodeSamples.Threading.03")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Exam70483CodeSamples.Threading.03")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
