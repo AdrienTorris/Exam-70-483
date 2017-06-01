@@ -1,5 +1,4 @@
-﻿
-namespace Exam70483CodeSamples.Threading._04
+﻿namespace Exam70483CodeSamples.Threading._04
 {
     using System;
     using System.Threading;
