@@ -8,6 +8,7 @@
     /// </summary>
     /// <see cref="https://msdn.microsoft.com/en-us/library/dd642243(v=vs.110).aspx"/>
     /// <seealso cref="https://msdn.microsoft.com/en-us/library/system.threading.thread.currentthread(v=vs.110).aspx"/>
+    /// <seealso cref="https://msdn.microsoft.com/en-us/library/system.threading.executioncontext.suppressflow(v=vs.110).aspx"/>
     class Program
     {
         static ThreadLocal<int> _field = new ThreadLocal<int>(() =>
