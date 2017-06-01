@@ -6,6 +6,8 @@
     /// <summary>
     /// Stopping a thread
     /// </summary>
+    /// <see cref="https://msdn.microsoft.com/en-us/library/system.threading.threadstart(v=vs.110).aspx"/>
+    /// <seealso cref="https://msdn.microsoft.com/en-us/library/6x4c42hc(v=vs.110).aspx"/>
     class Program
     {
         static void Main(string[] args)

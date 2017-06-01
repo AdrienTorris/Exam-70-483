@@ -7,9 +7,12 @@
     /// Using a simple thread
     /// </summary>
     /// <remarks>
-    /// - Thread.Sleep(0) =>
-    /// - t.Join() =>
+    /// - Thread.Sleep(0) => 
+    /// - t.Join() => To wait the thread finishes his job.
     /// </remarks>
+    /// <see cref="https://msdn.microsoft.com/en-us/library/system.threading(v=vs.110).aspx"/>
+    /// <seealso cref="https://msdn.microsoft.com/en-us/library/a9fyxz7d(v=vs.110).aspx"/>
+    /// <seealso cref="https://msdn.microsoft.com/en-us/library/aa645740(v=vs.71).aspx"/>
     class Program
     {
         static void Main(string[] args)

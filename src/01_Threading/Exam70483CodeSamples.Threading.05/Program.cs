@@ -6,6 +6,7 @@
     /// <summary>
     /// Using the ThreadStaticAttribute
     /// </summary>
+    /// <see cref="https://msdn.microsoft.com/en-us/library/system.threadstaticattribute(v=vs.110).aspx"/>
     class Program
     {
         [ThreadStatic]
