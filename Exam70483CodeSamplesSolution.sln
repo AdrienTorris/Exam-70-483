@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam70483CodeSamples.Thread
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam70483CodeSamples.Threading.13", "src\01_Threading\Exam70483CodeSamples.Threading.13\Exam70483CodeSamples.Threading.13.csproj", "{16463E8D-281B-484E-938D-029733BE738E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam70483CodeSamples.Threading.14", "src\01_Threading\Exam70483CodeSamples.Threading.14\Exam70483CodeSamples.Threading.14.csproj", "{871D673D-B890-4637-B97A-C66DAD1A5639}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -89,6 +91,10 @@ Global
 		{16463E8D-281B-484E-938D-029733BE738E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16463E8D-281B-484E-938D-029733BE738E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16463E8D-281B-484E-938D-029733BE738E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871D673D-B890-4637-B97A-C66DAD1A5639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871D673D-B890-4637-B97A-C66DAD1A5639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871D673D-B890-4637-B97A-C66DAD1A5639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871D673D-B890-4637-B97A-C66DAD1A5639}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -107,5 +113,6 @@ Global
 		{35A2B694-C411-42AE-8367-7FD83D0F778E} = {2A4848D8-2BDE-4D71-BE97-335DACC5C1C2}
 		{82041F43-1650-4005-9335-B9614A44606E} = {2A4848D8-2BDE-4D71-BE97-335DACC5C1C2}
 		{16463E8D-281B-484E-938D-029733BE738E} = {2A4848D8-2BDE-4D71-BE97-335DACC5C1C2}
+		{871D673D-B890-4637-B97A-C66DAD1A5639} = {2A4848D8-2BDE-4D71-BE97-335DACC5C1C2}
 	EndGlobalSection
 EndGlobal
