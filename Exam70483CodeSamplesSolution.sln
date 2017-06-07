@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam70483CodeSamples.Thread
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam70483CodeSamples.Threading.17", "src\01_Threading\Exam70483CodeSamples.Threading.17\Exam70483CodeSamples.Threading.17.csproj", "{88FD3ED5-210E-420A-AA77-EE422FFA2F44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam70483CodeSamples.Threading.18", "src\01_Threading\Exam70483CodeSamples.Threading.18\Exam70483CodeSamples.Threading.18.csproj", "{DB379171-B5C5-47C2-A1B4-09B3918947CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,6 +115,10 @@ Global
 		{88FD3ED5-210E-420A-AA77-EE422FFA2F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88FD3ED5-210E-420A-AA77-EE422FFA2F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88FD3ED5-210E-420A-AA77-EE422FFA2F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB379171-B5C5-47C2-A1B4-09B3918947CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB379171-B5C5-47C2-A1B4-09B3918947CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB379171-B5C5-47C2-A1B4-09B3918947CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB379171-B5C5-47C2-A1B4-09B3918947CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -135,5 +141,6 @@ Global
 		{1AD3F633-CBBB-4F17-8463-2D2B7C97AC75} = {2A4848D8-2BDE-4D71-BE97-335DACC5C1C2}
 		{4409C30A-7AE7-4506-9B88-2DE19C9EB1BE} = {2A4848D8-2BDE-4D71-BE97-335DACC5C1C2}
 		{88FD3ED5-210E-420A-AA77-EE422FFA2F44} = {2A4848D8-2BDE-4D71-BE97-335DACC5C1C2}
+		{DB379171-B5C5-47C2-A1B4-09B3918947CD} = {2A4848D8-2BDE-4D71-BE97-335DACC5C1C2}
 	EndGlobalSection
 EndGlobal

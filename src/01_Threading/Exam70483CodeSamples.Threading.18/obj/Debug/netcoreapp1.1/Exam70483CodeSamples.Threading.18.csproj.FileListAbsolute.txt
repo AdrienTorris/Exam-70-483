@@ -1,0 +1,8 @@
+C:\Users\a.torris\Documents\GitHub\Exam-70-483\src\01_Threading\Exam70483CodeSamples.Threading.18\bin\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.18.deps.json
+C:\Users\a.torris\Documents\GitHub\Exam-70-483\src\01_Threading\Exam70483CodeSamples.Threading.18\bin\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.18.runtimeconfig.json
+C:\Users\a.torris\Documents\GitHub\Exam-70-483\src\01_Threading\Exam70483CodeSamples.Threading.18\bin\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.18.runtimeconfig.dev.json
+C:\Users\a.torris\Documents\GitHub\Exam-70-483\src\01_Threading\Exam70483CodeSamples.Threading.18\bin\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.18.dll
+C:\Users\a.torris\Documents\GitHub\Exam-70-483\src\01_Threading\Exam70483CodeSamples.Threading.18\bin\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.18.pdb
+C:\Users\a.torris\Documents\GitHub\Exam-70-483\src\01_Threading\Exam70483CodeSamples.Threading.18\obj\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.18.AssemblyInfo.cs
+C:\Users\a.torris\Documents\GitHub\Exam-70-483\src\01_Threading\Exam70483CodeSamples.Threading.18\obj\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.18.dll
+C:\Users\a.torris\Documents\GitHub\Exam-70-483\src\01_Threading\Exam70483CodeSamples.Threading.18\obj\Debug\netcoreapp1.1\Exam70483CodeSamples.Threading.18.pdb
